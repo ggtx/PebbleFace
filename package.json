@@ -1,0 +1,41 @@
+{
+    "author": "xiaogao51@foxmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pappertime",
+    "pebble": {
+        "displayName": "PapperTime",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "fonts/FONT2",
+                    "name": "FONT_CUSTOM_ONE_20",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/FONT1.ttf",
+                    "name": "FONT_CUSTOM_ONE_50",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "5aa4764c-d497-4801-a5c4-12cf0cd662db",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.12.0"
+}
